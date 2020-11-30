@@ -5,7 +5,7 @@
 - архивирует
 - разархивирует
 - дешифрует в папку "targetDirectory" проекта
-# targetDirectory хранит файлы в поддиректориях формата "dd.mm.yyyy/hh.mm.ss" (дата и время приема файлов sourceDirectory
+### targetDirectory хранит файлы в поддиректориях формата "dd.mm.yyyy/hh.mm.ss" (дата и время приема файлов sourceDirectory)
 
 ## Требования:
 - добавить папки "sourceDirectory" и "targetDirectory"
