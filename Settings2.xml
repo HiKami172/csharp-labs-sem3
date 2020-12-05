@@ -1,0 +1,5 @@
+<?xml version="2.0" encoding="UTF-8" ?>
+<settings>
+  <Settings TargetPath="D:\Projects\Visual_Studio\CS lab3\targetDirectory" SourcePath="D:\Projects\Visual_Studio\CS lab3\sourceDirectory" />
+  <Mods Compress="Compress" Decompress="Decompress" Encrypt="Encrypt" CompressAndEncrypt="CompressAndEncrypt" Decrypt="Decrypt" />
+</settings>
