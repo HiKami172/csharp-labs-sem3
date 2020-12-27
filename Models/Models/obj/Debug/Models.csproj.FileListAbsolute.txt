@@ -1,0 +1,169 @@
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\BusnessLogic.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\ConfigurationManager.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\FileManager.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\JsonBuilder.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\RequestManager.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\System.Data.SqlClient.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\DataAccess.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\DataManager.dll
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\BusnessLogic.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\ConfigurationManager.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\FileManager.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\JsonBuilder.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\RequestManager.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\System.Data.SqlClient.xml
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\DataAccess.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\bin\Debug\DataManager.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\obj\Debug\Models.csprojAssemblyReference.cache
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\obj\Debug\Models.csproj.CopyComplete
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\учеба\3 sem\ИСП\4 Лаба\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\ConsoleApp1.exe.config
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\ConsoleApp1.exe
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\ConsoleApp1.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\BusnessLogic.dll
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\ConfigurationManager.dll
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\FileManager.dll
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\JsonBuilder.dll
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\RequestManager.dll
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\System.Data.SqlClient.dll
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\DataAccess.dll
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\DataManager.dll
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\BusnessLogic.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\ConfigurationManager.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\FileManager.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\JsonBuilder.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\RequestManager.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\System.Data.SqlClient.xml
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\DataAccess.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\bin\Debug\DataManager.pdb
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\obj\Debug\Models.csproj.CopyComplete
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\obj\Debug\ConsoleApp1.exe
+D:\учеба\3 sem\ИСП\4 Лаба\Models\Models\obj\Debug\ConsoleApp1.pdb
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\obj\Debug\ConsoleApp1.exe.config
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\obj\Debug\ConsoleApp1.exe
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\obj\Debug\ConsoleApp1.pdb
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\ConsoleApp1.exe.config
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\ConsoleApp1.exe
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\ConsoleApp1.pdb
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\netstandard.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.AppContext.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Collections.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Collections.Specialized.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.ComponentModel.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Console.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Data.Common.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Globalization.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.IO.Compression.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.IO.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.IO.FileSystem.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.IO.Pipes.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Linq.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Linq.Expressions.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Linq.Parallel.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Linq.Queryable.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Net.Http.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Net.NameResolution.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Net.Ping.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Net.Primitives.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Net.Requests.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Net.Security.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Net.Sockets.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Net.WebSockets.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.ObjectModel.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Reflection.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Resources.Reader.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Resources.Writer.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Runtime.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Runtime.Handles.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Security.Claims.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Security.Principal.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Security.SecureString.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Text.Encoding.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Threading.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Threading.Tasks.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Threading.Thread.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Threading.Timer.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.ValueTuple.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Xml.XDocument.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Xml.XPath.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\BusnessLogic.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\ConfigurationManager.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\FileManager.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\JsonBuilder.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\RequestManager.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Data.SqlClient.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\DataAccess.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\DataManager.dll
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\BusnessLogic.pdb
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\ConfigurationManager.pdb
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\FileManager.pdb
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\JsonBuilder.pdb
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\RequestManager.pdb
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\System.Data.SqlClient.xml
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\DataAccess.pdb
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\bin\Debug\DataManager.pdb
+C:\Users\seimu\Desktop\Laba4-main\Models\Models\obj\Debug\Models.csproj.CopyComplete
